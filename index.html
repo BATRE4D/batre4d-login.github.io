@@ -104,7 +104,6 @@
 <meta name="lestari_sdgs" content="" />
 <meta name="content_total_pages" content="1" />
 <meta name="content_current_page" content="1" />
-
 <link rel="preload" as="image" href="https://s13.gifyu.com/images/bqNYc.png">
 <meta name="google-site-verification" content="CMOIzCPO68qHpStE9h8sCl5WeFv-QhFzN05n0wI9ul0" />
 
